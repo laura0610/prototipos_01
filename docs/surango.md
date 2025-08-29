@@ -40,7 +40,7 @@ gráfico TD
     A --> C4
     A --> C5
 ```
-# INMEDIATO
+# Prompt 
  
 * Soy estudiante de Ingeniería en Sistemas y debo proponer soluciones a la problemática de una tienda de barrio que no cuenta con una base de datos virtual. El árbol de problemas identifica como causas principales: *
  
