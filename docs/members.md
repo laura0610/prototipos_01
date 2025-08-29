@@ -2,10 +2,10 @@
 
 # INTEGRANTES 
 
-* lalquichides
+* lalquichides@ucompensar.edu.co
 
-* nagarzon
+* nagarzon@ucompensar.edu.co
 
-* pauladgarcia
+* pauladgarcia@ucompensar.edu.co
 
-* surango
+* surango@ucompensar.edu.co
