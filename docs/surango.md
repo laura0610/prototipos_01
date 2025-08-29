@@ -10,24 +10,23 @@
  
 Una tienda de barrio que no cuenta con una base de datos virtual enfrenta dificultades para llevar un control eficiente de su inventario y de las ventas diarias. Muchas veces se realizan registros manuales en cuadernos que pueden perderse, dañarse o quedar incompletos, lo que provoca confusión al momento de calcular las ganancias o reponer mercancía.
  
-# ÁRBOL DE PROBLEMAS.
-``` sirena
-gráfico TD
+# ÁRBOL DE PROBLEMAS
+``` mermaid
+graph TD
     A[Objetivo central: Implementar un sistema digital de gestión de inventario en la tienda de barrio]
-    %% Medios (soluciones)
     B1[Uso de hojas de cálculo para registro inicial]
     B2[Aplicaciones móviles gratuitas de inventario]
     B3[Base de datos en MySQL/PostgreSQL]
     B4[Aplicación web o de escritorio básico]
     B5[Sistema integral en la nube]
     B6[Panel de informes y alertas automáticas]
-    %% Multas (resultados)
+
     C1[Control eficiente del inventario]
     C2[Disponibilidad de productos de alta demanda]
     C3[Reducción de pérdidas económicas]
     C4[Mejora en la toma de decisiones]
     C5[Incremento de rentabilidad y competitividad]
-    %% Relaciones
+
     B1 --> A
     B2 --> A
     B3 --> A
@@ -39,7 +38,9 @@ gráfico TD
     A --> C3
     A --> C4
     A --> C5
+
 ```
+
 # Prompt 
  
 * Soy estudiante de Ingeniería en Sistemas y debo proponer soluciones a la problemática de una tienda de barrio que no cuenta con una base de datos virtual. El árbol de problemas identifica como causas principales: *
