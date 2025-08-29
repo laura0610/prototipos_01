@@ -4,7 +4,8 @@
 ## contexto problematica
 * Mi tío acaba de comenzar un negocio en el cual aun no tiene una base de datos que le proporcione toda la información que necesita de la manera más rápida posible, yo como ingeniero puedo intervenir haciendo una escucha activa del problema para saber que es lo que necesita y que es lo que no necesita en la base de datos, después de un extenso análisis y la creación de un modelo relacional podremos seguir con el programa y sus visuales
 ## Arbol de problemas
-* graph TD
+```mermaid
+graph TD
 %% Nodo central
 A[¿Qué puede salir mal?]
 %% Causas
@@ -32,7 +33,7 @@ B1 --> D1
 B2 --> D2
 D1 --> E
 D2 --> E
-
+```
 # Prompt
 
 * Como estudiante de Ingeniería de Sistemas, me enfrento a la problemática de que mi tío ha iniciado un nuevo negocio, pero aún no cuenta con una base de datos que le permita gestionar la información de forma rápida y eficiente. Desde mi rol, puedo intervenir aplicando una escucha activa para comprender a fondo sus necesidades reales, diferenciando qué datos son esenciales y cuáles no. Este proceso permitirá un análisis detallado de los requerimientos del sistema, lo cual culminará en el diseño de un modelo relacional adecuado. A partir de este modelo, podremos desarrollar una base de datos funcional y continuar con la implementación del programa, incluyendo sus respectivas visualizaciones, optimizando así la toma de decisiones y la operatividad del negocio.
