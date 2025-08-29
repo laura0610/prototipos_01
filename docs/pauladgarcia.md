@@ -5,7 +5,7 @@
 Mi hermano tiene problemas al momento de realizar alguna investigación para sus tareas, casi siempre los profesores no aceptan dicha investigación debido a que usa fuentes no confiables. Considero crear una aplicación donde haya todo tipo de información sobre libros, enciclopedias, informes universitarios, etc, con información totalmente confiable, para que no se vean mas este tipo de situaciones. *
 
 # Arbol de problemas 
-
+``` mermaid
 graph TD
     %% Problema central
     FC[Falta de recursos]
@@ -28,7 +28,7 @@ graph TD
     FC --> E1
     FC --> E2
     FC --> E3
-
+```
 # Prompt 
 
 Como estudiante de Ingeniería de Sistemas, he observado una problemática recurrente que afecta especialmente a estudiantes de niveles escolares: la dificultad para realizar investigaciones académicas debido al uso de fuentes no confiables en internet. Esta situación se presenta con frecuencia en el caso de mi hermano, cuyos trabajos suelen ser rechazados por los docentes por no contar con información verificada. Esta falta de acceso a recursos confiables no solo genera confusión, sino que también afecta negativamente el aprendizaje. Por ello, propongo el desarrollo de una aplicación que concentre contenido académico validado, como libros digitales, enciclopedias, artículos científicos e informes universitarios, con el fin de brindar a los estudiantes una herramienta eficiente y segura para realizar sus investigaciones escolares.
