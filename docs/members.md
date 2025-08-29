@@ -1,5 +1,3 @@
-# prototipos_01
-
 # INTEGRANTES 
 
 * lalquichides@ucompensar.edu.co
