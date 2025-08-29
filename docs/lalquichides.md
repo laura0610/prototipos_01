@@ -5,7 +5,7 @@
 Un familiar tiene un negocio en el cual se realizan domicilios, sin embargo, cuando ya se realizaron los domicilios a un lugar específico, y la persona que realiza los domicilios vuelve a el negocio después de realizar un domicilio, puede volver a salir otro pedido cerca al lugar donde se había realizado el último. Considero que se podría crear una aplicación en la cual, conectando las ubicaciones más cercanas, también integrando un mapa para que le indique a cuál lugar debe ir primero e indicándole en que dirección debería dirigirse. Para que las entregas se realizan de manera correcta y rápida, sin tener que volver a ir a la misma ubicación para el siguiente pedido. Teniendo en cuenta que para volver a realizar los domicilios se vuelva a tener en cuenta la ubicación para realizar una entrega del domicilio de manera óptima.
 
 ## Árbol de problemas
-
+```mermaid
 graph TD
 
 %% Niveles
@@ -48,6 +48,7 @@ E1 --> E3
 E1 --> E5
 E2 --> E4
 E2 --> E6
+```
 
 ## prompt
 
