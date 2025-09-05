@@ -74,3 +74,105 @@ graph TD
 ** 2. Soluciones intermedias: diseño de una base de datos en MySQL/PostgreSQL con interfaz básica (Java, Python o aplicación web). **
  
 Esta opción es la ideal porque combina bajo costo con mayor organización y escalabilidad. A diferencia de las hojas de cálculo, una base de datos permite registrar cada producto, venta y compra de forma estructurada, evitando duplicados y errores humanos. Además, con una interfaz básica, los dueños de la tienda pueden acceder fácilmente a la información sin necesidad de conocimientos técnicos avanzados.
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Solución Intermedia: Base de Datos con Interfaz Básica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0; 
+            padding: 0;
+            background-color: #f4f6f8;
+            color: #333;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            max-width: 900px;
+            margin: 30px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            margin-bottom: 0.2em;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 1.5em;
+        }
+        ul {
+            margin-left: 1.5em;
+            margin-bottom: 1.5em;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #eaeaea;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #666;
+        }
+        .highlight {
+            background-color: #dbe9ff;
+            padding: 15px;
+            border-left: 5px solid #4a90e2;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Solución Intermedia: Base de Datos con Interfaz Básica</h1>
+    </header>
+    <main>
+        <section>
+            <h2>¿Por qué elegir esta solución?</h2>
+            <p>
+                Esta opción es ideal porque combina un bajo costo con mayor organización y escalabilidad para la gestión de una tienda. A diferencia de las hojas de cálculo, una base de datos permite registrar cada producto, venta y compra de forma estructurada, evitando duplicados y errores humanos.
+            </p>
+        </section>
+
+        <section>
+            <h2>Beneficios de usar una base de datos</h2>
+            <ul>
+                <li>Registro estructurado y organizado de productos, ventas y compras.</li>
+                <li>Evita errores y duplicados comunes en hojas de cálculo.</li>
+                <li>Facilita la escalabilidad conforme crece el negocio.</li>
+                <li>Permite consultas y reportes más precisos y rápidos.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Interfaz básica para usuarios sin conocimientos técnicos</h2>
+            <p>
+                Con una interfaz sencilla desarrollada en Java, Python o como aplicación web, los dueños de la tienda pueden acceder fácilmente a la información, registrar ventas y productos, y generar reportes sin necesidad de conocimientos técnicos avanzados.
+            </p>
+            <div class="highlight">
+                Ejemplo de tecnologías recomendadas:<br>
+                <strong>Base de datos:</strong> MySQL o PostgreSQL<br>
+                <strong>Interfaz:</strong> Aplicación web con HTML, CSS, JavaScript, y backend en Python (Flask/Django) o Java (Spring Boot).
+            </div>
+        </section>
+
+        <section>
+            <h2>Resumen</h2>
+            <p>
+                Esta solución intermedia mejora la gestión de la tienda con bajo costo, organización y escalabilidad, proporcionando una experiencia de usuario sencilla y eficiente para los dueños del negocio.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2025 Soluciones para Tiendas | Base de Datos + Interfaz Básica
+    </footer>
+</body>
+</html>
